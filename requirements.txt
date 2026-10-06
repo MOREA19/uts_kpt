@@ -1,0 +1,4 @@
+# psutil opsional; tanpa psutil jumlah CPU fisik ditampilkan sebagai tidak tersedia.
+psutil>=5.9
+matplotlib>=3.7
+pandas>=2.0

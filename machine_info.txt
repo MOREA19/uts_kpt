@@ -1,0 +1,6 @@
+Nama CPU: AMD64 Family 25 Model 124 Stepping 0, AuthenticAMD
+Core logical: 12
+Core physical: Tidak tersedia
+RAM: 15.23 GB
+OS: Windows-11-10.0.26200-SP0
+Versi Python: 3.14.7

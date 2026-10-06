@@ -1,0 +1,18 @@
+# Environment dan cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+# Dataset sintetis (ratusan MB, dibuat ulang otomatis oleh data_generator.py)
+dataset/
+# Editor, OS, rahasia
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+*.env
+*.log
+# Berkas sementara Word
+~$*.docx
